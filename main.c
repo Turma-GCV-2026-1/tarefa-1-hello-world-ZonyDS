@@ -8,5 +8,6 @@ int main() {
     printf("Testando o fluxo GitFlow!\n");
     printf("Testando o fluxo GitFlow! 2\n");
     printf("Bolinha\n");
+    printf("Bolinha 2\n");
     return 0;
 }
